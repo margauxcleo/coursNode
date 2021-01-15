@@ -1,0 +1,4 @@
+Bonjour
+Bonsoir
+Salut 
+Au revoir
