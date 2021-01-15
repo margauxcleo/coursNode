@@ -1,0 +1,29 @@
+{
+  "name": "coursnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coursNode.js",
+  "dependencies": {
+    "fs-path": "0.0.25",
+    "http": "0.0.1-security",
+    "lodash": "^4.17.20",
+    "query-string": "^6.13.8",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margauxcleo/coursNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/margauxcleo/coursNode/issues"
+  },
+  "homepage": "https://github.com/margauxcleo/coursNode#readme"
+}
